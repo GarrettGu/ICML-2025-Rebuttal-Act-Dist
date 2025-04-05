@@ -5,40 +5,40 @@ We report the relative proportion of activation counts within the two different 
 
 
 * ReLU 1:
-    <img src="figs/2.png" width=640/>
+<img src="figs/2.png" width=640/>
     
 * ReLU 2:
 <img src="figs/5.png" width=640/>
 
 * ReLU 3:
-    <img src="figs/9.png" width=640/>
+<img src="figs/9.png" width=640/>
 
 * ReLU 4:
-    <img src="figs/12.png" width=640/>
+<img src="figs/12.png" width=640/>
 
 * ReLU 5:
-    <img src="figs/16.png" width=640/>
+<img src="figs/16.png" width=640/>
 
 * ReLU 6:
-    <img src="figs/19.png" width=640/>
+<img src="figs/19.png" width=640/>
 
 * ReLU 7:
-    <img src="figs/22.png" width=640/>
+<img src="figs/22.png" width=640/>
 
 * ReLU 8:
-    <img src="figs/26.png" width=640/>
+<img src="figs/26.png" width=640/>
 
 * ReLU 9:
-    <img src="figs/29.png" width=640/>
+<img src="figs/29.png" width=640/>
 
 * ReLU 10:
-    <img src="figs/32.png" width=640/>
+<img src="figs/32.png" width=640/>
 
 * ReLU 11:
-    <img src="figs/36.png" width=640/>
+<img src="figs/36.png" width=640/>
 
 * ReLU 12:
-    <img src="figs/39.png" width=640/>
+<img src="figs/39.png" width=640/>
 
 * ReLU 13:
-    <img src="figs/42.png" width=640/>
+<img src="figs/42.png" width=640/>
